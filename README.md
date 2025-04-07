@@ -58,8 +58,9 @@
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanDsza17&theme=tokyonight&hide_border=false&layout=compact" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanDsza17&theme=tokyonight&hide_border=false&layout=compact" height="140" />
 </div>
+
 
 ---
 
