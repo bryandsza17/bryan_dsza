@@ -42,7 +42,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bryandsouza17@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bryan_dsza17) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/bryan_dsza17)  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BryanDsza17)
+<img src="https://komarev.com/ghpvc/?username=BryanDsza17&style=flat" alt="visitors"/>
 
 ---
 
