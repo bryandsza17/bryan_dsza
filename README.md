@@ -50,8 +50,8 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=BryanDsza17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-  </div>
-  <div align="left">
+</div>
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanDsza17&theme=tokyonight&hide_border=false" height="170" />
 </div>
 
@@ -59,9 +59,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanDsza17&theme=tokyonight&hide_border=false&layout=compact" height="140" />
 </div>
 
+## 📅 Code of the Day
 
-📅 Code of the Day
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</div>
 
-> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
-
----
