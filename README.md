@@ -50,10 +50,8 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=BryanDsza17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-  <img align="right" src="https://i.imgflip.com/65efzo.gif" width="250" alt="Anime Typing Girl" />
-</div>
-
-<div align="left">
+  </div>
+  <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanDsza17&theme=tokyonight&hide_border=false" height="170" />
 </div>
 
@@ -62,8 +60,8 @@
 </div>
 
 
----
+📅 Code of the Day
 
-<h4 align="center">
-   "Hey, I code, I build, and I have style while doing it." 🔥
-</h4>
+> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+
+---
